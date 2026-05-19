@@ -1,4 +1,4 @@
-# Industry-Stanndard-End-to-End-Data-analytics-project
+# Industry-Standard-End-to-End-Data-analytics-project
 # 🛍️ Retail Customer Intelligence Dashboard  
 ### Customer Shopping Behavior Analysis using Python, SQL & Power BI
 
